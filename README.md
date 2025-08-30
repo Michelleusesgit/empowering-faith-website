@@ -23,15 +23,21 @@ It combines thoughtful design with functionality, including sections for informa
 
 ---
 
-## 🖼 Screenshots 
+## 🖼 Screenshots
 
-![Homepage Screenshot](homepage.png)  
-![Services Screenshot](services.png)  
+### Homepage
+![Homepage](Homepage.ss.png)
+
+### Stories & Test Page
+![Stories and Test](stories&test.ss.png)
+
 
 ---
 
 ## 🌐 Live Demo
-🔗 [View Website](your-live-wix-link-here)  
+[View Website](https://sharonmichellet02.wixsite.com/empowering-faith-3)
+
+
 
 ---
 
